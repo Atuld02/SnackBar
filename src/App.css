@@ -1,0 +1,28 @@
+h2, h3, h4, h6, p {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.card, .collection-item, .instructions, li {
+  font-family: 'Lato', sans-serif !important;
+}
+
+.reacipe-background {
+  background: url("https://source.unsplash.com/4ZTCtZnc-G4/5930×3953");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+ .input-field input[type=text], .input-field input[type=text]:active , .input-field input[type=text]:focus {
+  border-bottom: transparent !important;
+  box-shadow: transparent !important;
+  background-color: whitesmoke;
+  opacity: 0.5;
+  padding-left: 2%;
+ }
+
+.btn {
+  height: 3.21rem !important;
+}
+
+
